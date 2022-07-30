@@ -1,4 +1,4 @@
-# SchoolComparison
+# School Comparison
 
 1. Is there a difference in school performance between students from public and private schools?
 2. What differentiates schools that form high-performing students?
